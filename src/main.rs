@@ -21,7 +21,7 @@ fn main() {
 
     let sk: u64 = 45; // It must be fixed
 
-    // Public Keys:
+    // Public Key:
 
     let pk = _g_1.operate_with_self(sk);
 
